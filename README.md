@@ -5,7 +5,7 @@ My name is Brooke and I am currently enrolled in a full-stack coding bootcamp.
 
 This is a portfolio page with some of my work and group projects
 
-![Image of projects](./images/portfoliopreview.jpg)
+![Image of projects](../images/portfoliopreview.jpg)
 
 brookeotis@gmail.com
 
