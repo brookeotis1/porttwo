@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/porttwo/static/css/main.be75f156.chunk.css",
+    "main.js": "/porttwo/static/js/main.38062524.chunk.js",
+    "main.js.map": "/porttwo/static/js/main.38062524.chunk.js.map",
+    "runtime-main.js": "/porttwo/static/js/runtime-main.1ba48e12.js",
+    "runtime-main.js.map": "/porttwo/static/js/runtime-main.1ba48e12.js.map",
+    "static/js/2.65108090.chunk.js": "/porttwo/static/js/2.65108090.chunk.js",
+    "static/js/2.65108090.chunk.js.map": "/porttwo/static/js/2.65108090.chunk.js.map",
+    "static/js/3.835c6d58.chunk.js": "/porttwo/static/js/3.835c6d58.chunk.js",
+    "static/js/3.835c6d58.chunk.js.map": "/porttwo/static/js/3.835c6d58.chunk.js.map",
+    "index.html": "/porttwo/index.html",
+    "static/css/main.be75f156.chunk.css.map": "/porttwo/static/css/main.be75f156.chunk.css.map",
+    "static/js/2.65108090.chunk.js.LICENSE.txt": "/porttwo/static/js/2.65108090.chunk.js.LICENSE.txt",
+    "static/media/css.7a8acd9d.svg": "/porttwo/static/media/css.7a8acd9d.svg",
+    "static/media/github.95ad9234.svg": "/porttwo/static/media/github.95ad9234.svg",
+    "static/media/html.af68b4d6.svg": "/porttwo/static/media/html.af68b4d6.svg",
+    "static/media/javascript.dce2f756.svg": "/porttwo/static/media/javascript.dce2f756.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ba48e12.js",
+    "static/js/2.65108090.chunk.js",
+    "static/css/main.be75f156.chunk.css",
+    "static/js/main.38062524.chunk.js"
+  ]
+}
