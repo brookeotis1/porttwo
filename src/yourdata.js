@@ -105,8 +105,8 @@ export default {
   aboutParaTwo:
     "Outside of working in healthcare and school I enjoy camping, baking, and crafting. Flaming Gorge, Utah and Hawaii are my favorite places to visit",
   
-  aboutImage:"/images/brookepic.jpg",
-  //   <img src={brookepic} alt="woman" />,
+  aboutImage:"/porttwo/images/brookepic.jpg",
+    //  <img src={brookepic} alt="woman" />,
 
 
   // Skills Section 
